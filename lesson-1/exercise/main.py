@@ -7,15 +7,15 @@ date = currentDateTime.date()
 yearFromDate = int(date.strftime("%y"))
 #MAX YEAR 2099
 def mapFiscalCode(case):
-    if(case == 'sex'):
+    if(case == 'gender'):
         ####### START ########
-        ###CHECK USER SEX
-        if(int(sex) > 40):
+        ###CHECK USER gender
+        if(int(gender) > 40):
             return 'F'
-        elif(int(sex) <= 40 and int(sex) >= 1 ):
+        elif(int(gender) <= 40 and int(gender) >= 1 ):
             return 'M'
         else:
-            return 'Sex Error'
+            return 'gender Error'
         ####### END ########
     elif(case == 'day'):
         ####### START ########
@@ -73,11 +73,11 @@ def mapFiscalCode(case):
 month = fiscal_code[8]
 day = fiscal_code[9:11]
 year = fiscal_code[6:8]
-sex = day
+gender = day
 #month
 print(f'Birth Month: {mapFiscalCode("month")}')
-#sex
-print(f'Sex: {mapFiscalCode("sex")}')
+#gender
+print(f'gender: {mapFiscalCode("gender")}')
 #birthdate
 print(f'Birth Day: {mapFiscalCode("day")}')
 #year
