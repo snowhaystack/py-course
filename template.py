@@ -2,28 +2,30 @@
 cursor = 0
 desc = 'section'
 ##FUNCTION SECTION
-def endTest(cursor):
+def endTest():
     ####### START ########
-    cursor += 1
+    global cursor
     print(f'{"END ------> "}{cursor}')
     print('')
     return cursor
     ###### END ##########
-def startTest(cursor,desc):
+def startTest(desc):
     ####### START ########
+    global cursor
     cursor += 1
     print(f'START ------> {cursor} {desc} ')
     ###### END ##########
 ##USAGE XAMPLE
 ##########################
-startTest(cursor ,desc)
-cursor = endTest(cursor)
+
+startTest(desc)
+cursor = endTest()
 
 ##########################
-startTest(cursor ,desc)
-cursor = endTest(cursor)
+startTest(desc)
+cursor = endTest()
 
 ##########################
-startTest(cursor ,desc)
-cursor = endTest(cursor)
+startTest(desc)
+cursor = endTest()
 ##END USAGE EXAMPLE
