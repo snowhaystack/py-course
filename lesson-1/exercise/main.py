@@ -6,7 +6,7 @@ currentDateTime = datetime.datetime.now()
 date = currentDateTime.date()
 yearFromDate = int(date.strftime("%y"))
 #MAX YEAR 2099
-def mapFiscalCode(val,case):
+def mapFiscalCode(case):
     if(case == 'sex'):
         ####### START ########
         ###CHECK USER SEX
@@ -75,12 +75,12 @@ day = fiscal_code[9:11]
 year = fiscal_code[6:8]
 sex = day
 #month
-print(f'Birth Month: {mapFiscalCode(month,"month")}')
+print(f'Birth Month: {mapFiscalCode("month")}')
 #sex
-print(f'Sex: {mapFiscalCode(sex,"sex")}')
+print(f'Sex: {mapFiscalCode("sex")}')
 #birthdate
-print(f'Birth Day: {mapFiscalCode(day,"day")}')
+print(f'Birth Day: {mapFiscalCode("day")}')
 #year
-print(f'Birth Year: {mapFiscalCode(year,"year")}')
+print(f'Birth Year: {mapFiscalCode("year")}')
 #recap
-print(f'Birth date: {mapFiscalCode(day,"day")}-{mapFiscalCode(month,"month")}-{mapFiscalCode(year,"year")}')
+print(f'Birth date: {mapFiscalCode("day")}-{mapFiscalCode("month")}-{mapFiscalCode("year")}')
