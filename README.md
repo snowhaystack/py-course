@@ -26,7 +26,7 @@ Namespaces are one honking great idea -- let's do more of those!
 ```
 ## Lesson 1
 Exercise:
-- extract fiscal code without import library => ✅
+- extract fiscal code without fiscal_code library => ✅
 
 ```bash
   array
