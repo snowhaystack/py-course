@@ -1,5 +1,5 @@
 # Py-course
-All py exercises 
+All py exercises [ tested with AREPL, VSCode ]
 
 ## Remember
 ```ssh
