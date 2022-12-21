@@ -35,7 +35,31 @@ Exercise:
   callable
   map string
 ```
+## Lesson 2
+Exercise:
+- move file into other directory, read filename and path info
+with sys & os=> ✅
 
+```bash
+  list
+  touple
+  dictionary
+  sets
+  abs
+  iterable => all
+  iterable => any
+  chr(i) <=> ord()
+  dir(object)
+  len(object)
+  vars(object)
+  eval(expr [,globals [, locals]])
+  exec(code [,globals [, locals]])
+  print
+  import
+  sys
+  os
+  shutil
+```
 ## Authors
 
 - [@snowhaystack](https://www.github.com/snowhaystack)
