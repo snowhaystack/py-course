@@ -60,6 +60,48 @@ with sys & os=> ✅
   os
   shutil
 ```
+## Lesson 3
+Exercise 1
+- ask for a number to bet on 
+- ask for the value of the wallet
+- ask for an amount to bet 
+- spin the roulette wheel 1000 times
+- determine the value of the wallet
+- if number drawn wins 36 times the stake otherwise loses bet 
+Exercise 2
+- creating the deck 
+- get a card from the deck 
+- comparing two cards and returning the winning one (the one with the highest value) 
+Exercise 3
+- create and distribute deck
+
+```bash
+  time
+  datetime
+  shelf module
+  log method
+  logging module
+  random
+  functions
+  keywords
+
+```
+## Lesson 4
+Exercise 1
+- primary number list
+Exercise 2
+- hanoi tower
+Exercise 3
+- fibonacci
+
+```bash
+  lambda
+  variable
+  iteration
+  list comprehensions
+  generator
+  functional programming
+```
 ## Authors
 
 - [@snowhaystack](https://www.github.com/snowhaystack)
