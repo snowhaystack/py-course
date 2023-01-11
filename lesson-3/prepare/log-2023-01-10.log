@@ -1,0 +1,5 @@
+2023-01-10 10:29:23,118 - INFO - __main__ - Info Log
+2023-01-10 10:29:23,118 - DEBUG - __main__ - Debug Log
+2023-01-10 10:29:23,118 - WARNING - __main__ - Warning Log
+2023-01-10 10:29:23,118 - ERROR - __main__ - Error Log
+2023-01-10 10:29:23,118 - CRITICAL - __main__ - Critical Log
