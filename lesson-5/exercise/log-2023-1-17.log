@@ -1,0 +1,450 @@
+2023-01-17 11:38:50,209 - INFO - __main__ - paramter (1, 10), {}
+2023-01-17 11:38:50,210 - INFO - __main__ - <function sum at 0x0000021970C770A0> execution time => 0.0
+2023-01-17 11:38:50,210 - INFO - __main__ - result x =1, y = 10, sum =  11
+2023-01-17 11:38:50,210 - INFO - __main__ - paramter (100, 8), {}
+2023-01-17 11:38:50,210 - INFO - __main__ - paramter (100, 8), {}
+2023-01-17 11:38:50,210 - INFO - __main__ - <function subtraction at 0x00000219710E9E10> execution time => 0.0
+2023-01-17 11:38:50,210 - INFO - __main__ - <function subtraction at 0x00000219710E9E10> execution time => 0.0
+2023-01-17 11:38:50,211 - INFO - __main__ - result x =100, y = 8, subtraction =  92
+2023-01-17 11:38:50,211 - INFO - __main__ - result x =100, y = 8, subtraction =  92
+2023-01-17 11:38:50,211 - INFO - __main__ - paramter (5, 7), {}
+2023-01-17 11:38:50,211 - INFO - __main__ - paramter (5, 7), {}
+2023-01-17 11:38:50,211 - INFO - __main__ - paramter (5, 7), {}
+2023-01-17 11:38:50,211 - INFO - __main__ - <function multiplication at 0x00000219710EAD40> execution time => 0.0
+2023-01-17 11:38:50,211 - INFO - __main__ - <function multiplication at 0x00000219710EAD40> execution time => 0.0
+2023-01-17 11:38:50,211 - INFO - __main__ - <function multiplication at 0x00000219710EAD40> execution time => 0.0
+2023-01-17 11:38:50,211 - INFO - __main__ - result x =5, y = 7, multiplication =  35
+2023-01-17 11:38:50,211 - INFO - __main__ - result x =5, y = 7, multiplication =  35
+2023-01-17 11:38:50,211 - INFO - __main__ - result x =5, y = 7, multiplication =  35
+2023-01-17 11:38:50,212 - INFO - __main__ - paramter (100, 10), {}
+2023-01-17 11:38:50,212 - INFO - __main__ - paramter (100, 10), {}
+2023-01-17 11:38:50,212 - INFO - __main__ - paramter (100, 10), {}
+2023-01-17 11:38:50,212 - INFO - __main__ - paramter (100, 10), {}
+2023-01-17 11:38:50,212 - INFO - __main__ - <function division at 0x00000219710EA8C0> execution time => 0.0
+2023-01-17 11:38:50,212 - INFO - __main__ - <function division at 0x00000219710EA8C0> execution time => 0.0
+2023-01-17 11:38:50,212 - INFO - __main__ - <function division at 0x00000219710EA8C0> execution time => 0.0
+2023-01-17 11:38:50,212 - INFO - __main__ - <function division at 0x00000219710EA8C0> execution time => 0.0
+2023-01-17 11:38:50,213 - INFO - __main__ - result x =100, divider = 10, division =  10.0
+2023-01-17 11:38:50,213 - INFO - __main__ - result x =100, divider = 10, division =  10.0
+2023-01-17 11:38:50,213 - INFO - __main__ - result x =100, divider = 10, division =  10.0
+2023-01-17 11:38:50,213 - INFO - __main__ - result x =100, divider = 10, division =  10.0
+2023-01-17 11:38:50,214 - INFO - __main__ - paramter (3, 2), {}
+2023-01-17 11:38:50,214 - INFO - __main__ - paramter (3, 2), {}
+2023-01-17 11:38:50,214 - INFO - __main__ - paramter (3, 2), {}
+2023-01-17 11:38:50,214 - INFO - __main__ - paramter (3, 2), {}
+2023-01-17 11:38:50,214 - INFO - __main__ - paramter (3, 2), {}
+2023-01-17 11:38:50,214 - INFO - __main__ - <function potency at 0x00000219710EB1C0> execution time => 0.0
+2023-01-17 11:38:50,214 - INFO - __main__ - <function potency at 0x00000219710EB1C0> execution time => 0.0
+2023-01-17 11:38:50,214 - INFO - __main__ - <function potency at 0x00000219710EB1C0> execution time => 0.0
+2023-01-17 11:38:50,214 - INFO - __main__ - <function potency at 0x00000219710EB1C0> execution time => 0.0
+2023-01-17 11:38:50,214 - INFO - __main__ - <function potency at 0x00000219710EB1C0> execution time => 0.0
+2023-01-17 11:38:50,214 - INFO - __main__ - result x =3, index = 2, potency =  9
+2023-01-17 11:38:50,214 - INFO - __main__ - result x =3, index = 2, potency =  9
+2023-01-17 11:38:50,214 - INFO - __main__ - result x =3, index = 2, potency =  9
+2023-01-17 11:38:50,214 - INFO - __main__ - result x =3, index = 2, potency =  9
+2023-01-17 11:38:50,214 - INFO - __main__ - result x =3, index = 2, potency =  9
+2023-01-17 11:40:00,049 - INFO - __main__ - paramter (1, 10), {}
+2023-01-17 11:40:00,050 - INFO - __main__ - <function sum at 0x000001E3057F6C20> execution time => 0.0
+2023-01-17 11:40:00,050 - INFO - __main__ - result x =1, y = 10, sum =  11
+2023-01-17 11:40:00,051 - INFO - __main__ - paramter (100, 8), {}
+2023-01-17 11:40:00,051 - INFO - __main__ - paramter (100, 8), {}
+2023-01-17 11:40:00,051 - INFO - __main__ - <function subtraction at 0x000001E3058E9120> execution time => 0.0
+2023-01-17 11:40:00,051 - INFO - __main__ - <function subtraction at 0x000001E3058E9120> execution time => 0.0
+2023-01-17 11:40:00,051 - INFO - __main__ - result x =100, y = 8, subtraction =  92
+2023-01-17 11:40:00,051 - INFO - __main__ - result x =100, y = 8, subtraction =  92
+2023-01-17 11:40:00,051 - INFO - __main__ - paramter (5, 7), {}
+2023-01-17 11:40:00,051 - INFO - __main__ - paramter (5, 7), {}
+2023-01-17 11:40:00,051 - INFO - __main__ - paramter (5, 7), {}
+2023-01-17 11:40:00,051 - INFO - __main__ - <function multiplication at 0x000001E3058EA050> execution time => 0.0
+2023-01-17 11:40:00,051 - INFO - __main__ - <function multiplication at 0x000001E3058EA050> execution time => 0.0
+2023-01-17 11:40:00,051 - INFO - __main__ - <function multiplication at 0x000001E3058EA050> execution time => 0.0
+2023-01-17 11:40:00,051 - INFO - __main__ - result x =5, y = 7, multiplication =  35
+2023-01-17 11:40:00,051 - INFO - __main__ - result x =5, y = 7, multiplication =  35
+2023-01-17 11:40:00,051 - INFO - __main__ - result x =5, y = 7, multiplication =  35
+2023-01-17 11:40:00,052 - INFO - __main__ - paramter (100, 10), {}
+2023-01-17 11:40:00,052 - INFO - __main__ - paramter (100, 10), {}
+2023-01-17 11:40:00,052 - INFO - __main__ - paramter (100, 10), {}
+2023-01-17 11:40:00,052 - INFO - __main__ - paramter (100, 10), {}
+2023-01-17 11:40:00,052 - INFO - __main__ - <function division at 0x000001E3058E9BD0> execution time => 0.0
+2023-01-17 11:40:00,052 - INFO - __main__ - <function division at 0x000001E3058E9BD0> execution time => 0.0
+2023-01-17 11:40:00,052 - INFO - __main__ - <function division at 0x000001E3058E9BD0> execution time => 0.0
+2023-01-17 11:40:00,052 - INFO - __main__ - <function division at 0x000001E3058E9BD0> execution time => 0.0
+2023-01-17 11:40:00,052 - INFO - __main__ - result x =100, divider = 10, division =  10.0
+2023-01-17 11:40:00,052 - INFO - __main__ - result x =100, divider = 10, division =  10.0
+2023-01-17 11:40:00,052 - INFO - __main__ - result x =100, divider = 10, division =  10.0
+2023-01-17 11:40:00,052 - INFO - __main__ - result x =100, divider = 10, division =  10.0
+2023-01-17 11:40:00,052 - INFO - __main__ - paramter (3, 2), {}
+2023-01-17 11:40:00,052 - INFO - __main__ - paramter (3, 2), {}
+2023-01-17 11:40:00,052 - INFO - __main__ - paramter (3, 2), {}
+2023-01-17 11:40:00,052 - INFO - __main__ - paramter (3, 2), {}
+2023-01-17 11:40:00,052 - INFO - __main__ - paramter (3, 2), {}
+2023-01-17 11:40:00,052 - INFO - __main__ - <function potency at 0x000001E3058EA4D0> execution time => 0.0
+2023-01-17 11:40:00,052 - INFO - __main__ - <function potency at 0x000001E3058EA4D0> execution time => 0.0
+2023-01-17 11:40:00,052 - INFO - __main__ - <function potency at 0x000001E3058EA4D0> execution time => 0.0
+2023-01-17 11:40:00,052 - INFO - __main__ - <function potency at 0x000001E3058EA4D0> execution time => 0.0
+2023-01-17 11:40:00,052 - INFO - __main__ - <function potency at 0x000001E3058EA4D0> execution time => 0.0
+2023-01-17 11:40:00,052 - INFO - __main__ - result x =3, index = 2, potency =  9
+2023-01-17 11:40:00,052 - INFO - __main__ - result x =3, index = 2, potency =  9
+2023-01-17 11:40:00,052 - INFO - __main__ - result x =3, index = 2, potency =  9
+2023-01-17 11:40:00,052 - INFO - __main__ - result x =3, index = 2, potency =  9
+2023-01-17 11:40:00,052 - INFO - __main__ - result x =3, index = 2, potency =  9
+2023-01-17 11:40:01,688 - INFO - __main__ - paramter (1, 10), {}
+2023-01-17 11:40:01,688 - INFO - __main__ - <function sum at 0x000001E3058E9630> execution time => 0.0
+2023-01-17 11:40:01,688 - INFO - __main__ - result x =1, y = 10, sum =  11
+2023-01-17 11:40:01,689 - INFO - __main__ - paramter (100, 8), {}
+2023-01-17 11:40:01,689 - INFO - __main__ - paramter (100, 8), {}
+2023-01-17 11:40:01,689 - INFO - __main__ - <function subtraction at 0x000001E3059F80D0> execution time => 0.0
+2023-01-17 11:40:01,689 - INFO - __main__ - <function subtraction at 0x000001E3059F80D0> execution time => 0.0
+2023-01-17 11:40:01,689 - INFO - __main__ - result x =100, y = 8, subtraction =  92
+2023-01-17 11:40:01,689 - INFO - __main__ - result x =100, y = 8, subtraction =  92
+2023-01-17 11:40:01,689 - INFO - __main__ - paramter (5, 7), {}
+2023-01-17 11:40:01,689 - INFO - __main__ - paramter (5, 7), {}
+2023-01-17 11:40:01,689 - INFO - __main__ - paramter (5, 7), {}
+2023-01-17 11:40:01,689 - INFO - __main__ - <function multiplication at 0x000001E3059F9000> execution time => 0.0
+2023-01-17 11:40:01,689 - INFO - __main__ - <function multiplication at 0x000001E3059F9000> execution time => 0.0
+2023-01-17 11:40:01,689 - INFO - __main__ - <function multiplication at 0x000001E3059F9000> execution time => 0.0
+2023-01-17 11:40:01,689 - INFO - __main__ - result x =5, y = 7, multiplication =  35
+2023-01-17 11:40:01,689 - INFO - __main__ - result x =5, y = 7, multiplication =  35
+2023-01-17 11:40:01,689 - INFO - __main__ - result x =5, y = 7, multiplication =  35
+2023-01-17 11:40:01,689 - INFO - __main__ - paramter (100, 10), {}
+2023-01-17 11:40:01,689 - INFO - __main__ - paramter (100, 10), {}
+2023-01-17 11:40:01,689 - INFO - __main__ - paramter (100, 10), {}
+2023-01-17 11:40:01,689 - INFO - __main__ - paramter (100, 10), {}
+2023-01-17 11:40:01,690 - INFO - __main__ - <function division at 0x000001E3059F9480> execution time => 0.0
+2023-01-17 11:40:01,690 - INFO - __main__ - <function division at 0x000001E3059F9480> execution time => 0.0
+2023-01-17 11:40:01,690 - INFO - __main__ - <function division at 0x000001E3059F9480> execution time => 0.0
+2023-01-17 11:40:01,690 - INFO - __main__ - <function division at 0x000001E3059F9480> execution time => 0.0
+2023-01-17 11:40:01,690 - INFO - __main__ - result x =100, divider = 10, division =  10.0
+2023-01-17 11:40:01,690 - INFO - __main__ - result x =100, divider = 10, division =  10.0
+2023-01-17 11:40:01,690 - INFO - __main__ - result x =100, divider = 10, division =  10.0
+2023-01-17 11:40:01,690 - INFO - __main__ - result x =100, divider = 10, division =  10.0
+2023-01-17 11:40:01,690 - INFO - __main__ - paramter (3, 2), {}
+2023-01-17 11:40:01,690 - INFO - __main__ - paramter (3, 2), {}
+2023-01-17 11:40:01,690 - INFO - __main__ - paramter (3, 2), {}
+2023-01-17 11:40:01,690 - INFO - __main__ - paramter (3, 2), {}
+2023-01-17 11:40:01,690 - INFO - __main__ - paramter (3, 2), {}
+2023-01-17 11:40:01,690 - INFO - __main__ - <function potency at 0x000001E3059F8CA0> execution time => 0.0
+2023-01-17 11:40:01,690 - INFO - __main__ - <function potency at 0x000001E3059F8CA0> execution time => 0.0
+2023-01-17 11:40:01,690 - INFO - __main__ - <function potency at 0x000001E3059F8CA0> execution time => 0.0
+2023-01-17 11:40:01,690 - INFO - __main__ - <function potency at 0x000001E3059F8CA0> execution time => 0.0
+2023-01-17 11:40:01,690 - INFO - __main__ - <function potency at 0x000001E3059F8CA0> execution time => 0.0
+2023-01-17 11:40:01,690 - INFO - __main__ - result x =3, index = 2, potency =  9
+2023-01-17 11:40:01,690 - INFO - __main__ - result x =3, index = 2, potency =  9
+2023-01-17 11:40:01,690 - INFO - __main__ - result x =3, index = 2, potency =  9
+2023-01-17 11:40:01,690 - INFO - __main__ - result x =3, index = 2, potency =  9
+2023-01-17 11:40:01,690 - INFO - __main__ - result x =3, index = 2, potency =  9
+2023-01-17 11:48:17,381 - INFO - __main__ - paramter (1, 10), {}
+2023-01-17 11:48:17,381 - INFO - __main__ - <function sum at 0x000001E305A13010> execution time => 0.0
+2023-01-17 11:48:17,381 - INFO - __main__ - result x =1, y = 10, sum =  11
+2023-01-17 11:48:17,381 - INFO - __main__ - paramter (100, 8), {}
+2023-01-17 11:48:17,381 - INFO - __main__ - paramter (100, 8), {}
+2023-01-17 11:48:17,381 - INFO - __main__ - <function subtraction at 0x000001E305B024D0> execution time => 0.0
+2023-01-17 11:48:17,381 - INFO - __main__ - <function subtraction at 0x000001E305B024D0> execution time => 0.0
+2023-01-17 11:48:17,381 - INFO - __main__ - result x =100, y = 8, subtraction =  92
+2023-01-17 11:48:17,381 - INFO - __main__ - result x =100, y = 8, subtraction =  92
+2023-01-17 11:48:17,382 - INFO - __main__ - paramter (5, 7), {}
+2023-01-17 11:48:17,382 - INFO - __main__ - paramter (5, 7), {}
+2023-01-17 11:48:17,382 - INFO - __main__ - paramter (5, 7), {}
+2023-01-17 11:48:17,382 - INFO - __main__ - <function multiplication at 0x000001E305B03400> execution time => 0.0
+2023-01-17 11:48:17,382 - INFO - __main__ - <function multiplication at 0x000001E305B03400> execution time => 0.0
+2023-01-17 11:48:17,382 - INFO - __main__ - <function multiplication at 0x000001E305B03400> execution time => 0.0
+2023-01-17 11:48:17,382 - INFO - __main__ - result x =5, y = 7, multiplication =  35
+2023-01-17 11:48:17,382 - INFO - __main__ - result x =5, y = 7, multiplication =  35
+2023-01-17 11:48:17,382 - INFO - __main__ - result x =5, y = 7, multiplication =  35
+2023-01-17 11:48:17,382 - INFO - __main__ - paramter (100, 10), {}
+2023-01-17 11:48:17,382 - INFO - __main__ - paramter (100, 10), {}
+2023-01-17 11:48:17,382 - INFO - __main__ - paramter (100, 10), {}
+2023-01-17 11:48:17,382 - INFO - __main__ - paramter (100, 10), {}
+2023-01-17 11:48:17,382 - INFO - __main__ - <function division at 0x000001E305B02F80> execution time => 0.0
+2023-01-17 11:48:17,382 - INFO - __main__ - <function division at 0x000001E305B02F80> execution time => 0.0
+2023-01-17 11:48:17,382 - INFO - __main__ - <function division at 0x000001E305B02F80> execution time => 0.0
+2023-01-17 11:48:17,382 - INFO - __main__ - <function division at 0x000001E305B02F80> execution time => 0.0
+2023-01-17 11:48:17,382 - INFO - __main__ - result x =100, divider = 10, division =  10.0
+2023-01-17 11:48:17,382 - INFO - __main__ - result x =100, divider = 10, division =  10.0
+2023-01-17 11:48:17,382 - INFO - __main__ - result x =100, divider = 10, division =  10.0
+2023-01-17 11:48:17,382 - INFO - __main__ - result x =100, divider = 10, division =  10.0
+2023-01-17 11:48:17,382 - INFO - __main__ - paramter (3, 2), {}
+2023-01-17 11:48:17,382 - INFO - __main__ - paramter (3, 2), {}
+2023-01-17 11:48:17,382 - INFO - __main__ - paramter (3, 2), {}
+2023-01-17 11:48:17,382 - INFO - __main__ - paramter (3, 2), {}
+2023-01-17 11:48:17,382 - INFO - __main__ - paramter (3, 2), {}
+2023-01-17 11:48:17,382 - INFO - __main__ - <function potency at 0x000001E305B03880> execution time => 0.0
+2023-01-17 11:48:17,382 - INFO - __main__ - <function potency at 0x000001E305B03880> execution time => 0.0
+2023-01-17 11:48:17,382 - INFO - __main__ - <function potency at 0x000001E305B03880> execution time => 0.0
+2023-01-17 11:48:17,382 - INFO - __main__ - <function potency at 0x000001E305B03880> execution time => 0.0
+2023-01-17 11:48:17,382 - INFO - __main__ - <function potency at 0x000001E305B03880> execution time => 0.0
+2023-01-17 11:48:17,383 - INFO - __main__ - result x =3, index = 2, potency =  9
+2023-01-17 11:48:17,383 - INFO - __main__ - result x =3, index = 2, potency =  9
+2023-01-17 11:48:17,383 - INFO - __main__ - result x =3, index = 2, potency =  9
+2023-01-17 11:48:17,383 - INFO - __main__ - result x =3, index = 2, potency =  9
+2023-01-17 11:48:17,383 - INFO - __main__ - result x =3, index = 2, potency =  9
+2023-01-17 11:48:17,694 - INFO - __main__ - paramter (1, 10), {}
+2023-01-17 11:48:17,694 - INFO - __main__ - <function sum at 0x000001E305B313F0> execution time => 0.0
+2023-01-17 11:48:17,694 - INFO - __main__ - result x =1, y = 10, sum =  11
+2023-01-17 11:48:17,695 - INFO - __main__ - paramter (100, 8), {}
+2023-01-17 11:48:17,695 - INFO - __main__ - paramter (100, 8), {}
+2023-01-17 11:48:17,695 - INFO - __main__ - <function subtraction at 0x000001E305BF2B00> execution time => 0.0
+2023-01-17 11:48:17,695 - INFO - __main__ - <function subtraction at 0x000001E305BF2B00> execution time => 0.0
+2023-01-17 11:48:17,695 - INFO - __main__ - result x =100, y = 8, subtraction =  92
+2023-01-17 11:48:17,695 - INFO - __main__ - result x =100, y = 8, subtraction =  92
+2023-01-17 11:48:17,695 - INFO - __main__ - paramter (5, 7), {}
+2023-01-17 11:48:17,695 - INFO - __main__ - paramter (5, 7), {}
+2023-01-17 11:48:17,695 - INFO - __main__ - paramter (5, 7), {}
+2023-01-17 11:48:17,695 - INFO - __main__ - <function multiplication at 0x000001E305BF3A30> execution time => 0.0
+2023-01-17 11:48:17,695 - INFO - __main__ - <function multiplication at 0x000001E305BF3A30> execution time => 0.0
+2023-01-17 11:48:17,695 - INFO - __main__ - <function multiplication at 0x000001E305BF3A30> execution time => 0.0
+2023-01-17 11:48:17,695 - INFO - __main__ - result x =5, y = 7, multiplication =  35
+2023-01-17 11:48:17,695 - INFO - __main__ - result x =5, y = 7, multiplication =  35
+2023-01-17 11:48:17,695 - INFO - __main__ - result x =5, y = 7, multiplication =  35
+2023-01-17 11:48:17,695 - INFO - __main__ - paramter (100, 10), {}
+2023-01-17 11:48:17,695 - INFO - __main__ - paramter (100, 10), {}
+2023-01-17 11:48:17,695 - INFO - __main__ - paramter (100, 10), {}
+2023-01-17 11:48:17,695 - INFO - __main__ - paramter (100, 10), {}
+2023-01-17 11:48:17,695 - INFO - __main__ - <function division at 0x000001E305BF35B0> execution time => 0.0
+2023-01-17 11:48:17,695 - INFO - __main__ - <function division at 0x000001E305BF35B0> execution time => 0.0
+2023-01-17 11:48:17,695 - INFO - __main__ - <function division at 0x000001E305BF35B0> execution time => 0.0
+2023-01-17 11:48:17,695 - INFO - __main__ - <function division at 0x000001E305BF35B0> execution time => 0.0
+2023-01-17 11:48:17,696 - INFO - __main__ - result x =100, divider = 10, division =  10.0
+2023-01-17 11:48:17,696 - INFO - __main__ - result x =100, divider = 10, division =  10.0
+2023-01-17 11:48:17,696 - INFO - __main__ - result x =100, divider = 10, division =  10.0
+2023-01-17 11:48:17,696 - INFO - __main__ - result x =100, divider = 10, division =  10.0
+2023-01-17 11:48:17,696 - INFO - __main__ - paramter (3, 2), {}
+2023-01-17 11:48:17,696 - INFO - __main__ - paramter (3, 2), {}
+2023-01-17 11:48:17,696 - INFO - __main__ - paramter (3, 2), {}
+2023-01-17 11:48:17,696 - INFO - __main__ - paramter (3, 2), {}
+2023-01-17 11:48:17,696 - INFO - __main__ - paramter (3, 2), {}
+2023-01-17 11:48:17,696 - INFO - __main__ - <function potency at 0x000001E305BF3EB0> execution time => 0.0
+2023-01-17 11:48:17,696 - INFO - __main__ - <function potency at 0x000001E305BF3EB0> execution time => 0.0
+2023-01-17 11:48:17,696 - INFO - __main__ - <function potency at 0x000001E305BF3EB0> execution time => 0.0
+2023-01-17 11:48:17,696 - INFO - __main__ - <function potency at 0x000001E305BF3EB0> execution time => 0.0
+2023-01-17 11:48:17,696 - INFO - __main__ - <function potency at 0x000001E305BF3EB0> execution time => 0.0
+2023-01-17 11:48:17,696 - INFO - __main__ - result x =3, index = 2, potency =  9
+2023-01-17 11:48:17,696 - INFO - __main__ - result x =3, index = 2, potency =  9
+2023-01-17 11:48:17,696 - INFO - __main__ - result x =3, index = 2, potency =  9
+2023-01-17 11:48:17,696 - INFO - __main__ - result x =3, index = 2, potency =  9
+2023-01-17 11:48:17,696 - INFO - __main__ - result x =3, index = 2, potency =  9
+2023-01-17 11:48:18,439 - INFO - __main__ - paramter (1, 10), {}
+2023-01-17 11:48:18,439 - INFO - __main__ - <function sum at 0x000001E305BF28C0> execution time => 0.0
+2023-01-17 11:48:18,439 - INFO - __main__ - result x =1, y = 10, sum =  11
+2023-01-17 11:48:18,439 - INFO - __main__ - paramter (100, 8), {}
+2023-01-17 11:48:18,439 - INFO - __main__ - paramter (100, 8), {}
+2023-01-17 11:48:18,439 - INFO - __main__ - <function subtraction at 0x000001E305CF9B40> execution time => 0.0
+2023-01-17 11:48:18,439 - INFO - __main__ - <function subtraction at 0x000001E305CF9B40> execution time => 0.0
+2023-01-17 11:48:18,439 - INFO - __main__ - result x =100, y = 8, subtraction =  92
+2023-01-17 11:48:18,439 - INFO - __main__ - result x =100, y = 8, subtraction =  92
+2023-01-17 11:48:18,439 - INFO - __main__ - paramter (5, 7), {}
+2023-01-17 11:48:18,439 - INFO - __main__ - paramter (5, 7), {}
+2023-01-17 11:48:18,439 - INFO - __main__ - paramter (5, 7), {}
+2023-01-17 11:48:18,440 - INFO - __main__ - <function multiplication at 0x000001E305CFAA70> execution time => 0.0
+2023-01-17 11:48:18,440 - INFO - __main__ - <function multiplication at 0x000001E305CFAA70> execution time => 0.0
+2023-01-17 11:48:18,440 - INFO - __main__ - <function multiplication at 0x000001E305CFAA70> execution time => 0.0
+2023-01-17 11:48:18,440 - INFO - __main__ - result x =5, y = 7, multiplication =  35
+2023-01-17 11:48:18,440 - INFO - __main__ - result x =5, y = 7, multiplication =  35
+2023-01-17 11:48:18,440 - INFO - __main__ - result x =5, y = 7, multiplication =  35
+2023-01-17 11:48:18,440 - INFO - __main__ - paramter (100, 10), {}
+2023-01-17 11:48:18,440 - INFO - __main__ - paramter (100, 10), {}
+2023-01-17 11:48:18,440 - INFO - __main__ - paramter (100, 10), {}
+2023-01-17 11:48:18,440 - INFO - __main__ - paramter (100, 10), {}
+2023-01-17 11:48:18,440 - INFO - __main__ - <function division at 0x000001E305CFA5F0> execution time => 0.0
+2023-01-17 11:48:18,440 - INFO - __main__ - <function division at 0x000001E305CFA5F0> execution time => 0.0
+2023-01-17 11:48:18,440 - INFO - __main__ - <function division at 0x000001E305CFA5F0> execution time => 0.0
+2023-01-17 11:48:18,440 - INFO - __main__ - <function division at 0x000001E305CFA5F0> execution time => 0.0
+2023-01-17 11:48:18,440 - INFO - __main__ - result x =100, divider = 10, division =  10.0
+2023-01-17 11:48:18,440 - INFO - __main__ - result x =100, divider = 10, division =  10.0
+2023-01-17 11:48:18,440 - INFO - __main__ - result x =100, divider = 10, division =  10.0
+2023-01-17 11:48:18,440 - INFO - __main__ - result x =100, divider = 10, division =  10.0
+2023-01-17 11:48:18,440 - INFO - __main__ - paramter (3, 2), {}
+2023-01-17 11:48:18,440 - INFO - __main__ - paramter (3, 2), {}
+2023-01-17 11:48:18,440 - INFO - __main__ - paramter (3, 2), {}
+2023-01-17 11:48:18,440 - INFO - __main__ - paramter (3, 2), {}
+2023-01-17 11:48:18,440 - INFO - __main__ - paramter (3, 2), {}
+2023-01-17 11:48:18,440 - INFO - __main__ - <function potency at 0x000001E305CFAEF0> execution time => 0.0
+2023-01-17 11:48:18,440 - INFO - __main__ - <function potency at 0x000001E305CFAEF0> execution time => 0.0
+2023-01-17 11:48:18,440 - INFO - __main__ - <function potency at 0x000001E305CFAEF0> execution time => 0.0
+2023-01-17 11:48:18,440 - INFO - __main__ - <function potency at 0x000001E305CFAEF0> execution time => 0.0
+2023-01-17 11:48:18,440 - INFO - __main__ - <function potency at 0x000001E305CFAEF0> execution time => 0.0
+2023-01-17 11:48:18,440 - INFO - __main__ - result x =3, index = 2, potency =  9
+2023-01-17 11:48:18,440 - INFO - __main__ - result x =3, index = 2, potency =  9
+2023-01-17 11:48:18,440 - INFO - __main__ - result x =3, index = 2, potency =  9
+2023-01-17 11:48:18,440 - INFO - __main__ - result x =3, index = 2, potency =  9
+2023-01-17 11:48:18,440 - INFO - __main__ - result x =3, index = 2, potency =  9
+2023-01-17 11:48:20,447 - INFO - __main__ - paramter (1, 10), {}
+2023-01-17 11:48:20,447 - INFO - __main__ - <function sum at 0x000001E305D1CA60> execution time => 0.0
+2023-01-17 11:48:20,447 - INFO - __main__ - result x =1, y = 10, sum =  11
+2023-01-17 11:48:20,447 - INFO - __main__ - paramter (100, 8), {}
+2023-01-17 11:48:20,447 - INFO - __main__ - paramter (100, 8), {}
+2023-01-17 11:48:20,447 - INFO - __main__ - <function subtraction at 0x000001E305E09240> execution time => 0.0
+2023-01-17 11:48:20,447 - INFO - __main__ - <function subtraction at 0x000001E305E09240> execution time => 0.0
+2023-01-17 11:48:20,447 - INFO - __main__ - result x =100, y = 8, subtraction =  92
+2023-01-17 11:48:20,447 - INFO - __main__ - result x =100, y = 8, subtraction =  92
+2023-01-17 11:48:20,448 - INFO - __main__ - paramter (5, 7), {}
+2023-01-17 11:48:20,448 - INFO - __main__ - paramter (5, 7), {}
+2023-01-17 11:48:20,448 - INFO - __main__ - paramter (5, 7), {}
+2023-01-17 11:48:20,448 - INFO - __main__ - <function multiplication at 0x000001E305E0A170> execution time => 0.0
+2023-01-17 11:48:20,448 - INFO - __main__ - <function multiplication at 0x000001E305E0A170> execution time => 0.0
+2023-01-17 11:48:20,448 - INFO - __main__ - <function multiplication at 0x000001E305E0A170> execution time => 0.0
+2023-01-17 11:48:20,448 - INFO - __main__ - result x =5, y = 7, multiplication =  35
+2023-01-17 11:48:20,448 - INFO - __main__ - result x =5, y = 7, multiplication =  35
+2023-01-17 11:48:20,448 - INFO - __main__ - result x =5, y = 7, multiplication =  35
+2023-01-17 11:48:20,448 - INFO - __main__ - paramter (100, 10), {}
+2023-01-17 11:48:20,448 - INFO - __main__ - paramter (100, 10), {}
+2023-01-17 11:48:20,448 - INFO - __main__ - paramter (100, 10), {}
+2023-01-17 11:48:20,448 - INFO - __main__ - paramter (100, 10), {}
+2023-01-17 11:48:20,448 - INFO - __main__ - <function division at 0x000001E305E09CF0> execution time => 0.0
+2023-01-17 11:48:20,448 - INFO - __main__ - <function division at 0x000001E305E09CF0> execution time => 0.0
+2023-01-17 11:48:20,448 - INFO - __main__ - <function division at 0x000001E305E09CF0> execution time => 0.0
+2023-01-17 11:48:20,448 - INFO - __main__ - <function division at 0x000001E305E09CF0> execution time => 0.0
+2023-01-17 11:48:20,449 - INFO - __main__ - result x =100, divider = 10, division =  10.0
+2023-01-17 11:48:20,449 - INFO - __main__ - result x =100, divider = 10, division =  10.0
+2023-01-17 11:48:20,449 - INFO - __main__ - result x =100, divider = 10, division =  10.0
+2023-01-17 11:48:20,449 - INFO - __main__ - result x =100, divider = 10, division =  10.0
+2023-01-17 11:48:20,449 - INFO - __main__ - paramter (3, 2), {}
+2023-01-17 11:48:20,449 - INFO - __main__ - paramter (3, 2), {}
+2023-01-17 11:48:20,449 - INFO - __main__ - paramter (3, 2), {}
+2023-01-17 11:48:20,449 - INFO - __main__ - paramter (3, 2), {}
+2023-01-17 11:48:20,449 - INFO - __main__ - paramter (3, 2), {}
+2023-01-17 11:48:20,449 - INFO - __main__ - <function potency at 0x000001E305E0A5F0> execution time => 0.0
+2023-01-17 11:48:20,449 - INFO - __main__ - <function potency at 0x000001E305E0A5F0> execution time => 0.0
+2023-01-17 11:48:20,449 - INFO - __main__ - <function potency at 0x000001E305E0A5F0> execution time => 0.0
+2023-01-17 11:48:20,449 - INFO - __main__ - <function potency at 0x000001E305E0A5F0> execution time => 0.0
+2023-01-17 11:48:20,449 - INFO - __main__ - <function potency at 0x000001E305E0A5F0> execution time => 0.0
+2023-01-17 11:48:20,449 - INFO - __main__ - result x =3, index = 2, potency =  9
+2023-01-17 11:48:20,449 - INFO - __main__ - result x =3, index = 2, potency =  9
+2023-01-17 11:48:20,449 - INFO - __main__ - result x =3, index = 2, potency =  9
+2023-01-17 11:48:20,449 - INFO - __main__ - result x =3, index = 2, potency =  9
+2023-01-17 11:48:20,449 - INFO - __main__ - result x =3, index = 2, potency =  9
+2023-01-17 11:48:23,068 - INFO - __main__ - paramter (1, 10), {}
+2023-01-17 11:48:23,068 - INFO - __main__ - <function sum at 0x000001E305E48160> execution time => 0.0
+2023-01-17 11:48:23,068 - INFO - __main__ - result x =1, y = 10, sum =  11
+2023-01-17 11:48:23,069 - INFO - __main__ - paramter (100, 8), {}
+2023-01-17 11:48:23,069 - INFO - __main__ - paramter (100, 8), {}
+2023-01-17 11:48:23,069 - INFO - __main__ - <function subtraction at 0x000001E305EF7F40> execution time => 0.0
+2023-01-17 11:48:23,069 - INFO - __main__ - <function subtraction at 0x000001E305EF7F40> execution time => 0.0
+2023-01-17 11:48:23,069 - INFO - __main__ - result x =100, y = 8, subtraction =  92
+2023-01-17 11:48:23,069 - INFO - __main__ - result x =100, y = 8, subtraction =  92
+2023-01-17 11:48:23,069 - INFO - __main__ - paramter (5, 7), {}
+2023-01-17 11:48:23,069 - INFO - __main__ - paramter (5, 7), {}
+2023-01-17 11:48:23,069 - INFO - __main__ - paramter (5, 7), {}
+2023-01-17 11:48:23,069 - INFO - __main__ - <function multiplication at 0x000001E305F08E50> execution time => 0.0
+2023-01-17 11:48:23,069 - INFO - __main__ - <function multiplication at 0x000001E305F08E50> execution time => 0.0
+2023-01-17 11:48:23,069 - INFO - __main__ - <function multiplication at 0x000001E305F08E50> execution time => 0.0
+2023-01-17 11:48:23,069 - INFO - __main__ - result x =5, y = 7, multiplication =  35
+2023-01-17 11:48:23,069 - INFO - __main__ - result x =5, y = 7, multiplication =  35
+2023-01-17 11:48:23,069 - INFO - __main__ - result x =5, y = 7, multiplication =  35
+2023-01-17 11:48:23,069 - INFO - __main__ - paramter (100, 10), {}
+2023-01-17 11:48:23,069 - INFO - __main__ - paramter (100, 10), {}
+2023-01-17 11:48:23,069 - INFO - __main__ - paramter (100, 10), {}
+2023-01-17 11:48:23,069 - INFO - __main__ - paramter (100, 10), {}
+2023-01-17 11:48:23,069 - INFO - __main__ - <function division at 0x000001E305F092D0> execution time => 0.0
+2023-01-17 11:48:23,069 - INFO - __main__ - <function division at 0x000001E305F092D0> execution time => 0.0
+2023-01-17 11:48:23,069 - INFO - __main__ - <function division at 0x000001E305F092D0> execution time => 0.0
+2023-01-17 11:48:23,069 - INFO - __main__ - <function division at 0x000001E305F092D0> execution time => 0.0
+2023-01-17 11:48:23,070 - INFO - __main__ - result x =100, divider = 10, division =  10.0
+2023-01-17 11:48:23,070 - INFO - __main__ - result x =100, divider = 10, division =  10.0
+2023-01-17 11:48:23,070 - INFO - __main__ - result x =100, divider = 10, division =  10.0
+2023-01-17 11:48:23,070 - INFO - __main__ - result x =100, divider = 10, division =  10.0
+2023-01-17 11:48:23,070 - INFO - __main__ - paramter (3, 2), {}
+2023-01-17 11:48:23,070 - INFO - __main__ - paramter (3, 2), {}
+2023-01-17 11:48:23,070 - INFO - __main__ - paramter (3, 2), {}
+2023-01-17 11:48:23,070 - INFO - __main__ - paramter (3, 2), {}
+2023-01-17 11:48:23,070 - INFO - __main__ - paramter (3, 2), {}
+2023-01-17 11:48:23,070 - INFO - __main__ - <function potency at 0x000001E305F08AF0> execution time => 0.0
+2023-01-17 11:48:23,070 - INFO - __main__ - <function potency at 0x000001E305F08AF0> execution time => 0.0
+2023-01-17 11:48:23,070 - INFO - __main__ - <function potency at 0x000001E305F08AF0> execution time => 0.0
+2023-01-17 11:48:23,070 - INFO - __main__ - <function potency at 0x000001E305F08AF0> execution time => 0.0
+2023-01-17 11:48:23,070 - INFO - __main__ - <function potency at 0x000001E305F08AF0> execution time => 0.0
+2023-01-17 11:48:23,070 - INFO - __main__ - result x =3, index = 2, potency =  9
+2023-01-17 11:48:23,070 - INFO - __main__ - result x =3, index = 2, potency =  9
+2023-01-17 11:48:23,070 - INFO - __main__ - result x =3, index = 2, potency =  9
+2023-01-17 11:48:23,070 - INFO - __main__ - result x =3, index = 2, potency =  9
+2023-01-17 11:48:23,070 - INFO - __main__ - result x =3, index = 2, potency =  9
+2023-01-17 11:48:23,806 - INFO - __main__ - paramter (1, 10), {}
+2023-01-17 11:48:23,807 - INFO - __main__ - <function sum at 0x000001E305F2AE60> execution time => 0.0
+2023-01-17 11:48:23,807 - INFO - __main__ - result x =1, y = 10, sum =  11
+2023-01-17 11:48:23,807 - INFO - __main__ - paramter (100, 8), {}
+2023-01-17 11:48:23,807 - INFO - __main__ - paramter (100, 8), {}
+2023-01-17 11:48:23,807 - INFO - __main__ - <function subtraction at 0x000001E3060089D0> execution time => 0.0
+2023-01-17 11:48:23,807 - INFO - __main__ - <function subtraction at 0x000001E3060089D0> execution time => 0.0
+2023-01-17 11:48:23,807 - INFO - __main__ - result x =100, y = 8, subtraction =  92
+2023-01-17 11:48:23,807 - INFO - __main__ - result x =100, y = 8, subtraction =  92
+2023-01-17 11:48:23,807 - INFO - __main__ - paramter (5, 7), {}
+2023-01-17 11:48:23,807 - INFO - __main__ - paramter (5, 7), {}
+2023-01-17 11:48:23,807 - INFO - __main__ - paramter (5, 7), {}
+2023-01-17 11:48:23,807 - INFO - __main__ - <function multiplication at 0x000001E306009900> execution time => 0.0
+2023-01-17 11:48:23,807 - INFO - __main__ - <function multiplication at 0x000001E306009900> execution time => 0.0
+2023-01-17 11:48:23,807 - INFO - __main__ - <function multiplication at 0x000001E306009900> execution time => 0.0
+2023-01-17 11:48:23,808 - INFO - __main__ - result x =5, y = 7, multiplication =  35
+2023-01-17 11:48:23,808 - INFO - __main__ - result x =5, y = 7, multiplication =  35
+2023-01-17 11:48:23,808 - INFO - __main__ - result x =5, y = 7, multiplication =  35
+2023-01-17 11:48:23,808 - INFO - __main__ - paramter (100, 10), {}
+2023-01-17 11:48:23,808 - INFO - __main__ - paramter (100, 10), {}
+2023-01-17 11:48:23,808 - INFO - __main__ - paramter (100, 10), {}
+2023-01-17 11:48:23,808 - INFO - __main__ - paramter (100, 10), {}
+2023-01-17 11:48:23,808 - INFO - __main__ - <function division at 0x000001E306009480> execution time => 0.0
+2023-01-17 11:48:23,808 - INFO - __main__ - <function division at 0x000001E306009480> execution time => 0.0
+2023-01-17 11:48:23,808 - INFO - __main__ - <function division at 0x000001E306009480> execution time => 0.0
+2023-01-17 11:48:23,808 - INFO - __main__ - <function division at 0x000001E306009480> execution time => 0.0
+2023-01-17 11:48:23,808 - INFO - __main__ - result x =100, divider = 10, division =  10.0
+2023-01-17 11:48:23,808 - INFO - __main__ - result x =100, divider = 10, division =  10.0
+2023-01-17 11:48:23,808 - INFO - __main__ - result x =100, divider = 10, division =  10.0
+2023-01-17 11:48:23,808 - INFO - __main__ - result x =100, divider = 10, division =  10.0
+2023-01-17 11:48:23,808 - INFO - __main__ - paramter (3, 2), {}
+2023-01-17 11:48:23,808 - INFO - __main__ - paramter (3, 2), {}
+2023-01-17 11:48:23,808 - INFO - __main__ - paramter (3, 2), {}
+2023-01-17 11:48:23,808 - INFO - __main__ - paramter (3, 2), {}
+2023-01-17 11:48:23,808 - INFO - __main__ - paramter (3, 2), {}
+2023-01-17 11:48:23,808 - INFO - __main__ - <function potency at 0x000001E306009D80> execution time => 0.0
+2023-01-17 11:48:23,808 - INFO - __main__ - <function potency at 0x000001E306009D80> execution time => 0.0
+2023-01-17 11:48:23,808 - INFO - __main__ - <function potency at 0x000001E306009D80> execution time => 0.0
+2023-01-17 11:48:23,808 - INFO - __main__ - <function potency at 0x000001E306009D80> execution time => 0.0
+2023-01-17 11:48:23,808 - INFO - __main__ - <function potency at 0x000001E306009D80> execution time => 0.0
+2023-01-17 11:48:23,808 - INFO - __main__ - result x =3, index = 2, potency =  9
+2023-01-17 11:48:23,808 - INFO - __main__ - result x =3, index = 2, potency =  9
+2023-01-17 11:48:23,808 - INFO - __main__ - result x =3, index = 2, potency =  9
+2023-01-17 11:48:23,808 - INFO - __main__ - result x =3, index = 2, potency =  9
+2023-01-17 11:48:23,808 - INFO - __main__ - result x =3, index = 2, potency =  9
+2023-01-17 11:48:24,577 - INFO - __main__ - paramter (1, 10), {}
+2023-01-17 11:48:24,577 - INFO - __main__ - <function sum at 0x000001E30602A560> execution time => 0.0
+2023-01-17 11:48:24,577 - INFO - __main__ - result x =1, y = 10, sum =  11
+2023-01-17 11:48:24,577 - INFO - __main__ - paramter (100, 8), {}
+2023-01-17 11:48:24,577 - INFO - __main__ - paramter (100, 8), {}
+2023-01-17 11:48:24,578 - INFO - __main__ - <function subtraction at 0x000001E306112B90> execution time => 0.0
+2023-01-17 11:48:24,578 - INFO - __main__ - <function subtraction at 0x000001E306112B90> execution time => 0.0
+2023-01-17 11:48:24,578 - INFO - __main__ - result x =100, y = 8, subtraction =  92
+2023-01-17 11:48:24,578 - INFO - __main__ - result x =100, y = 8, subtraction =  92
+2023-01-17 11:48:24,578 - INFO - __main__ - paramter (5, 7), {}
+2023-01-17 11:48:24,578 - INFO - __main__ - paramter (5, 7), {}
+2023-01-17 11:48:24,578 - INFO - __main__ - paramter (5, 7), {}
+2023-01-17 11:48:24,578 - INFO - __main__ - <function multiplication at 0x000001E306113AC0> execution time => 0.0
+2023-01-17 11:48:24,578 - INFO - __main__ - <function multiplication at 0x000001E306113AC0> execution time => 0.0
+2023-01-17 11:48:24,578 - INFO - __main__ - <function multiplication at 0x000001E306113AC0> execution time => 0.0
+2023-01-17 11:48:24,578 - INFO - __main__ - result x =5, y = 7, multiplication =  35
+2023-01-17 11:48:24,578 - INFO - __main__ - result x =5, y = 7, multiplication =  35
+2023-01-17 11:48:24,578 - INFO - __main__ - result x =5, y = 7, multiplication =  35
+2023-01-17 11:48:24,578 - INFO - __main__ - paramter (100, 10), {}
+2023-01-17 11:48:24,578 - INFO - __main__ - paramter (100, 10), {}
+2023-01-17 11:48:24,578 - INFO - __main__ - paramter (100, 10), {}
+2023-01-17 11:48:24,578 - INFO - __main__ - paramter (100, 10), {}
+2023-01-17 11:48:24,579 - INFO - __main__ - <function division at 0x000001E306113F40> execution time => 0.0
+2023-01-17 11:48:24,579 - INFO - __main__ - <function division at 0x000001E306113F40> execution time => 0.0
+2023-01-17 11:48:24,579 - INFO - __main__ - <function division at 0x000001E306113F40> execution time => 0.0
+2023-01-17 11:48:24,579 - INFO - __main__ - <function division at 0x000001E306113F40> execution time => 0.0
+2023-01-17 11:48:24,579 - INFO - __main__ - result x =100, divider = 10, division =  10.0
+2023-01-17 11:48:24,579 - INFO - __main__ - result x =100, divider = 10, division =  10.0
+2023-01-17 11:48:24,579 - INFO - __main__ - result x =100, divider = 10, division =  10.0
+2023-01-17 11:48:24,579 - INFO - __main__ - result x =100, divider = 10, division =  10.0
+2023-01-17 11:48:24,579 - INFO - __main__ - paramter (3, 2), {}
+2023-01-17 11:48:24,579 - INFO - __main__ - paramter (3, 2), {}
+2023-01-17 11:48:24,579 - INFO - __main__ - paramter (3, 2), {}
+2023-01-17 11:48:24,579 - INFO - __main__ - paramter (3, 2), {}
+2023-01-17 11:48:24,579 - INFO - __main__ - paramter (3, 2), {}
+2023-01-17 11:48:24,579 - INFO - __main__ - <function potency at 0x000001E306113760> execution time => 0.0
+2023-01-17 11:48:24,579 - INFO - __main__ - <function potency at 0x000001E306113760> execution time => 0.0
+2023-01-17 11:48:24,579 - INFO - __main__ - <function potency at 0x000001E306113760> execution time => 0.0
+2023-01-17 11:48:24,579 - INFO - __main__ - <function potency at 0x000001E306113760> execution time => 0.0
+2023-01-17 11:48:24,579 - INFO - __main__ - <function potency at 0x000001E306113760> execution time => 0.0
+2023-01-17 11:48:24,580 - INFO - __main__ - result x =3, index = 2, potency =  9
+2023-01-17 11:48:24,580 - INFO - __main__ - result x =3, index = 2, potency =  9
+2023-01-17 11:48:24,580 - INFO - __main__ - result x =3, index = 2, potency =  9
+2023-01-17 11:48:24,580 - INFO - __main__ - result x =3, index = 2, potency =  9
+2023-01-17 11:48:24,580 - INFO - __main__ - result x =3, index = 2, potency =  9
