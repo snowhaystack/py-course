@@ -132,6 +132,17 @@ Exercise 1 => ✅
 ```bash
   database interaction
 ```
+## Lesson 8
+Exercise 1 => ✅
+- BF tracking possibilities
+
+```bash
+  SQLAlchemy
+  FastApi
+  uvicorn
+  jinja2
+  python-multipart
+```
 ## Authors
 
 - [@snowhaystack](https://www.github.com/snowhaystack)
