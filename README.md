@@ -38,7 +38,7 @@ Exercise:
 ## Lesson 2
 Exercise:
 - move file into other directory, read filename and path info
-with sys & os=> ✅
+with sys & os => ✅
 
 ```bash
   list
@@ -61,18 +61,18 @@ with sys & os=> ✅
   shutil
 ```
 ## Lesson 3
-Exercise 1
+Exercise 1 => ✅
 - ask for a number to bet on 
 - ask for the value of the wallet
 - ask for an amount to bet 
 - spin the roulette wheel 1000 times
 - determine the value of the wallet
 - if number drawn wins 36 times the stake otherwise loses bet 
-Exercise 2
+Exercise 2 => ✅
 - creating the deck 
 - get a card from the deck 
 - comparing two cards and returning the winning one (the one with the highest value) 
-Exercise 3
+Exercise 3 => ✅
 - create and distribute deck
 
 ```bash
@@ -87,11 +87,11 @@ Exercise 3
 
 ```
 ## Lesson 4
-Exercise 1
+Exercise 1 => ✅
 - primary number list
-Exercise 2
+Exercise 2 => ✅
 - hanoi tower
-Exercise 3
+Exercise 3 => ✅
 - fibonacci
 
 ```bash
@@ -101,6 +101,36 @@ Exercise 3
   list comprehensions
   generator
   functional programming
+```
+## Lesson 5
+Exercise 1 => ✅
+- create decoration function
+- create inner for decorate 
+- function to decorate
+Exercise 2 => ✅
+- logging exercise 1
+Exercise 3 => ✅
+- requests & ppprint
+
+```bash
+  decor fn
+  api init
+  smtp
+```
+## Lesson 6
+Exercise 1 => ✅
+- check server status and send alert with status
+
+```bash
+  subprocess
+  class
+```
+## Lesson 7
+Exercise 1 => ✅
+- SQLite3 interaction
+
+```bash
+  database interaction
 ```
 ## Authors
 
