@@ -4,8 +4,8 @@ from email.mime.multipart import MIMEMultipart
 from email.mime.image import MIMEImage
 from email.mime.application import MIMEApplication
 
-gmail_user = 'pythonfrom0tohero@gmail.com'
-gmail_password = 'ugrebwsalcnhsqna'
+gmail_user = 'xxxx@gmail.com'
+gmail_password = 'xxxxx'
 
 
 def send_email(ip_address, status, timems, email_to):
